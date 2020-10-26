@@ -29,7 +29,7 @@ null, 'lavaroupas',	'Lava e Seca Roupas Samsung Ecobubble 15kg', '4150.00', '390
 insert into produtos value (
 null, 'lavaroupas',	'Máquina de Lavar Brastemp Advanced 12Kg', '2508.75',	'2100.00',	'imagens/lava roupas 2.jpg');
 insert into produtos value (
-null, 'lavaloucas',	'Lava Louças Brastemp - 14 Serviços	3689.50	Lava Louças Brastemp - 14 Serviços', '4100.00', '3690.00', 'imagens/lava louças.jpg');
+null, 'lavaloucas',	'Lava Louças Brastemp - 14 Serviços', '4100.00', '3690.00', 'imagens/lava louças.jpg');
 insert into produtos value (
 null, 'lavaloucas',	'Lava Louças Brastemp 10 Serviços - 220V', '3689.90',  '3290.00', 'imagens/lava louças 2.jpg');
 
